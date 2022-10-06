@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\bin\Debug\netcoreapp3.1\Laboratorio3PilasYColas.exe
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\bin\Debug\netcoreapp3.1\Laboratorio3PilasYColas.deps.json
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\bin\Debug\netcoreapp3.1\Laboratorio3PilasYColas.runtimeconfig.json
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\bin\Debug\netcoreapp3.1\Laboratorio3PilasYColas.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\bin\Debug\netcoreapp3.1\Laboratorio3PilasYColas.dll
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\bin\Debug\netcoreapp3.1\Laboratorio3PilasYColas.pdb
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\obj\Debug\netcoreapp3.1\Laboratorio3PilasYColas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\obj\Debug\netcoreapp3.1\Laboratorio3PilasYColas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\obj\Debug\netcoreapp3.1\Laboratorio3PilasYColas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\obj\Debug\netcoreapp3.1\Laboratorio3PilasYColas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\obj\Debug\netcoreapp3.1\Laboratorio3PilasYColas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\obj\Debug\netcoreapp3.1\Laboratorio3PilasYColas.dll
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\obj\Debug\netcoreapp3.1\Laboratorio3PilasYColas.pdb
+C:\Users\Usuario\Documents\Visual Studio 2019\Proyectos\Laboratorio3PilasYColas\obj\Debug\netcoreapp3.1\Laboratorio3PilasYColas.genruntimeconfig.cache
